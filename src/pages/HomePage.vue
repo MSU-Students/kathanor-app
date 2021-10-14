@@ -13,7 +13,7 @@
 export default {
   data() {
     return {
-      records : [{id:1, name: 'Ibrahim'}, {id:2, name: 'Nisa'}, {id:3, name: 'Me'}, {id:4, name: 'Me'}]
+      records : [{id:1, name: 'Ibrahim'}, {id:2, name: 'Nisa'}, {id:3, name: 'Me'}, {id:4, name: 'You'}]
     }
   }
 }
